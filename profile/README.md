@@ -26,6 +26,8 @@ Around here, a project might start with Moroccan business paperwork or with want
 
 ### [Ayyur](https://github.com/Itri-Cloud-Labs/Ayyur)
 
+<img src="https://raw.githubusercontent.com/Itri-Cloud-Labs/Ayyur/main/assets/brand/mascot/ayyur-happy.png" width="64" height="64" alt="Ayyur, a smiling gold moon" />
+
 A little moon for your daily rhythm.
 
 An Islamic companion in early development, built with Expo and React Native. The plan brings prayer tracking, Quran reading, fasting, habits, and personal growth into one app, with a moon mascot cheering you on without the guilt trips.
