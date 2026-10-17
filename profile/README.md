@@ -22,51 +22,38 @@ Hey, welcome to the lab. Make yourself at home.
 
 Around here, a project might start with Moroccan business paperwork or with wanting an AI study buddy in the terminal. Then comes the code. This is where we share the open-source side of that work, including projects that are still finding their feet.
 
-## Pick your rabbit hole
+## Pick something to explore
 
-### [Ayyur](https://github.com/Itri-Cloud-Labs/Ayyur)
-
-<img src="https://raw.githubusercontent.com/Itri-Cloud-Labs/Ayyur/main/assets/brand/mascot/ayyur-happy.png" width="64" height="64" alt="Ayyur, a smiling gold moon" />
-
-A little moon for your daily rhythm.
-
-An Islamic companion in early development, built with Expo and React Native. The plan brings prayer tracking, Quran reading, fasting, habits, and personal growth into one app, with a moon mascot cheering you on without the guilt trips.
-
-The design system and navigation are in place. The features are still to come, including offline use, optional encrypted sync, and an AI companion.
-
-[Meet Ayyur](https://github.com/Itri-Cloud-Labs/Ayyur#meet-ayyur) · [Run it locally](https://github.com/Itri-Cloud-Labs/Ayyur#getting-started) · MIT
-
-### [Invoice Kit](https://github.com/Itri-Cloud-Labs/invoice-kit)
-
-Paperwork has entered the developer chat.
-
-Generate Moroccan business PDFs from TypeScript: invoices, quotes, purchase orders, delivery notes, return notes, and price requests. MAD, TVA, ICE/IF/RC fields, French and Arabic labels, and automatic totals are built in.
-
-```sh
-npm install @ic-labs/invoice-kit
-```
-
-[Read the docs](https://github.com/Itri-Cloud-Labs/invoice-kit/tree/main/packages/typescript) · [Get it on npm](https://www.npmjs.com/package/@ic-labs/invoice-kit) · MIT
-
-TypeScript is available today. The Python package is planned.
-
-### [OpenStudy](https://github.com/Itri-Cloud-Labs/openstudy)
-
-Your terminal has a study buddy now.
-
-Bring your subject and study material, pick a model and reasoning level, and generate a structured summary without leaving the terminal. OpenStudy works with Codex and OpenCode and saves study sessions locally.
-
-Still early. Summaries work today; quizzes, flashcards, exercises, AI Teacher, and follow-up prompts aren't connected yet.
-
-[Try it locally](https://github.com/Itri-Cloud-Labs/openstudy#run-it) · GPLv3
-
-### [Shift](https://github.com/Itri-Cloud-Labs/shift)
-
-For when the coding agents need a coordinator.
-
-A self-hosted server for autonomous coding-agent workflows, with durable execution and an Electron client in development. The first end-to-end OpenCode agent run is implemented, with run state saved across process crashes. Uncertain outcomes need human attention. The desktop shell isn't connected yet.
-
-[Explore the server](https://github.com/Itri-Cloud-Labs/shift/tree/main/apps/server) · MIT
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><img src="https://raw.githubusercontent.com/Itri-Cloud-Labs/Ayyur/main/assets/brand/mascot/ayyur-happy.png" width="32" height="32" alt="Ayyur moon mascot" align="middle" /> <a href="https://github.com/Itri-Cloud-Labs/Ayyur">Ayyur</a></h3>
+<p>An Islamic companion for prayer, Quran, fasting and habits.</p>
+<p><em>Early development. Features are planned.</em></p>
+<p><a href="https://github.com/Itri-Cloud-Labs/Ayyur">Meet Ayyur →</a><br />Expo / React Native · MIT</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Itri-Cloud-Labs/invoice-kit">Invoice Kit</a></h3>
+<p>Moroccan business PDFs, with French and Arabic support.</p>
+<p><em>Available on npm.</em></p>
+<p><a href="https://www.npmjs.com/package/@ic-labs/invoice-kit">Get the package →</a><br />TypeScript · MIT</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Itri-Cloud-Labs/openstudy">OpenStudy</a></h3>
+<p>Study summaries in your terminal with Codex or OpenCode.</p>
+<p><em>Summaries work. Other study modes are planned.</em></p>
+<p><a href="https://github.com/Itri-Cloud-Labs/openstudy#run-it">Start a session →</a><br />TypeScript / Bun · GPLv3</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Itri-Cloud-Labs/shift">Shift</a></h3>
+<p>Self-hosted orchestration for autonomous coding agents.</p>
+<p><em>Early development. Desktop client isn't connected yet.</em></p>
+<p><a href="https://github.com/Itri-Cloud-Labs/shift">Explore Shift →</a><br />Node.js / Electron · MIT</p>
+</td>
+</tr>
+</table>
 
 ## Also on the workbench
 
