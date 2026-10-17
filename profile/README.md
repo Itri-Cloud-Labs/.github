@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://ic-labs.cloud/assets/logo-mint-wordmark.png" width="320" alt="Itri Cloud Labs logo" align="middle" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Itri-Cloud-Labs/.github/main/profile/assets/hostinger-partner.png" width="152" alt="Hostinger Partner" align="middle" />
+  <img src="https://ic-labs.cloud/assets/logo-mint-wordmark.png" width="420" alt="Itri Cloud Labs logo" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Itri-Cloud-Labs/.github/main/profile/assets/hostinger-partner-purple.png" width="152" alt="Hostinger Partner" />
 </p>
 
 <h1 align="center">Azul, we're Itri Cloud Labs 👋</h1>
