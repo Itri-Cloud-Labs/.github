@@ -24,6 +24,16 @@ Around here, a project might start with Moroccan business paperwork or with want
 
 ## Pick your rabbit hole
 
+### [Ayyur](https://github.com/Itri-Cloud-Labs/Ayyur)
+
+A little moon for your daily rhythm.
+
+An Islamic companion in early development, built with Expo and React Native. The plan brings prayer tracking, Quran reading, fasting, habits, and personal growth into one app, with a moon mascot cheering you on without the guilt trips.
+
+The design system and navigation are in place. The features are still to come, including offline use, optional encrypted sync, and an AI companion.
+
+[Meet Ayyur](https://github.com/Itri-Cloud-Labs/Ayyur#meet-ayyur) · [Run it locally](https://github.com/Itri-Cloud-Labs/Ayyur#getting-started) · MIT
+
 ### [Invoice Kit](https://github.com/Itri-Cloud-Labs/invoice-kit)
 
 Paperwork has entered the developer chat.
