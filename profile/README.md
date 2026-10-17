@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/286794142?v=4" width="96" alt="Itri Cloud Labs logo" />
+  <img src="https://ic-labs.cloud/assets/logo-mint-wordmark.png" width="420" alt="Itri Cloud Labs logo" />
 </p>
 
 <h1 align="center">Azul, we're Itri Cloud Labs 👋</h1>
